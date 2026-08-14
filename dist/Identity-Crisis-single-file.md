@@ -1,11 +1,15 @@
 # IDENTITY CRISIS
-### A Contra-Brand kit for coaches — single-file edition
+### A Contra-Brand kit for coaches. — single-file edition
 
-**How to use this file.** Paste the whole thing into a new chat with ChatGPT, Claude, Gemini, or any capable AI, then say: *"Run Identity Crisis on my coaching business."*
+**How to use this file.** Paste the whole thing into a new chat with ChatGPT,
+Claude, Gemini, or any capable AI, then say what you want it to do.
 
-It works better as project instructions or a Custom GPT than as a pasted message, because it stays loaded. If your tool supports saved instructions or a project knowledge file, put it there.
+It works better as project instructions or a Custom GPT than as a pasted
+message, because it stays loaded. If your tool supports saved instructions or
+a project knowledge file, put it there.
 
-The appendices at the bottom are referenced throughout. They're part of the file — the AI has them already, no need to fetch anything.
+The appendices at the bottom are referenced throughout. They're part of this
+file — the AI already has them, nothing needs to be fetched.
 
 ---
 
@@ -71,9 +75,9 @@ Three kinds of coaching business need the same spine but different pressure poin
 
 | Lens | Who it's for | Read |
 |---|---|---|
-| **Transformation brand** | The brand is a named thing that could outlive the founder. A program, a method, a promise. | **Appendix B** |
-| **Personal brand** | The coach's own name is the brand. They are the product. | **Appendix C** |
-| **Brick-and-mortar** | A physical place — gym, studio, clinic. Has staff, members, and a room. | **Appendix D** |
+| **Transformation brand** | The brand is a named thing that could outlive the founder. A program, a method, a promise. | **Appendix A** |
+| **Personal brand** | The coach's own name is the brand. They are the product. | **Appendix B** |
+| **Brick-and-mortar** | A physical place — gym, studio, clinic. Has staff, members, and a room. | **Appendix C** |
 
 When it's genuinely ambiguous, ask: *"If you got hit by a bus, could someone else run this under the same name?"* Yes → transformation brand. No → personal brand. Has a front door and employees → brick-and-mortar regardless of the other answer.
 
@@ -145,7 +149,7 @@ Do this even when the coach has already said they don't want to rebrand. They ar
 
 ## The phases
 
-Detailed interview questions for every phase are in **Appendix A**. Read it before starting Phase 0. The summaries below are what each phase is *for* and what it has to produce.
+Detailed interview questions for every phase are in **Appendix D**. Read it before starting Phase 0. The summaries below are what each phase is *for* and what it has to produce.
 
 ### Phase 0 · Intake
 
@@ -308,7 +312,350 @@ Two things to hold onto from that example:
 
 ---
 
-# APPENDIX A · Question Bank
+# APPENDIX A · Lens · Transformation Brand
+
+The brand is a named thing that leads with the change it produces rather than with the person producing it. A program, a method, a promise. It could, in principle, outlive its founder.
+
+This is the lens with the most room to build — and the most room to build something hollow. A named brand can be invented from nothing, which means nothing is stopping you from inventing something the coach can't actually deliver.
+
+---
+
+## What changes by phase
+
+### Phase 0 · Intake
+
+Standard both-paths intake, plus:
+
+- **What already has a name?** The business, the program, the framework, the free thing. Where did each name come from and does the coach still like it?
+- **Is the method real yet?** There's a large difference between a coach who has run something twenty times and one who has a landing page. Both can build a brand; only one can make a claim. Establish which, early and without judgment, because it determines what the brand is allowed to promise.
+- **The delivery reality.** How does the transformation actually happen — 1:1, group, cohort, self-paced, hybrid? Over what span? The brand has to fit the delivery or Phase 6 will catch the mismatch and you'll be rebuilding.
+
+### Phase 1 · The Enemy
+
+This lens supports the sharpest enemies, because the brand is an idea rather than a person and ideas can pick fights people can't.
+
+Lean into the **industrial complex** category. A transformation brand's most defensible position is usually "an entire industry is set up to keep you in the problem, and here's the mechanism." That's a claim a named brand can make and sustain.
+
+Watch for one failure: an enemy so broad it's unfalsifiable. "Modern life," "hustle culture," "the system" — these feel like positions and aren't, because nobody disagrees and nothing follows from them. Push for an enemy with a business model. If you can't name who makes money when the problem persists, keep going.
+
+### Phase 2 · The Archetype
+
+This lens gets the most leverage from the extension test, because the archetype has to name a whole product system rather than just describe a person.
+
+Extend the standard five to include:
+
+> 6. **The method's name** — the thing the coach does, as a proper noun
+> 7. **The phases or steps** — what the stages of the work are called
+> 8. **The diagnostic** — what you call the moment of assessment
+
+When an archetype produces all eight cleanly, you have a brand that can generate its own product line indefinitely. That's the whole payoff of this lens: one metaphor choice, and the naming problem is permanently solved.
+
+**Guard against the archetype outrunning the delivery.** A brand can promise a mechanical, systematic, diagnostic process; if the actual sessions are warm, exploratory conversations, the client feels the gap in week two. Run the marketing voice and the delivery voice against each other before locking the archetype — this is the mismatch the stress test hunts for and it's cheaper to catch here.
+
+### Phase 3 · The Expensive Problem and the Transformation
+
+The core of this lens. Everything else is downstream.
+
+Additions:
+
+- **The transformation needs a duration.** A named transformation brand almost always implies a span — 90 days, 12 weeks, six months. Pick it from the actual work, not from what sounds good. Then check: does the promise fit inside it honestly?
+- **What's the observable milestone at the midpoint?** A client who can't tell it's working by the halfway mark churns, regardless of whether it's working.
+- **What is explicitly *not* included?** A named brand invites scope creep because the name implies completeness. Draw the line here, in writing, and it'll save the coach a year of unpaid labor.
+
+### Phase 4 · The People
+
+Standard, with heavier weighting on the **buying-readiness split**. A transformation brand can be discovered by strangers at scale, which means the audience will be much broader than the buyer pool. Be explicit and unsentimental:
+
+- Whose attention is this brand built to capture?
+- Whose money is it built to take?
+- Are those the same people? *(Often not, and that's fine — but it has to be a decision. Build the voice for the one who spreads it; take money from the one who's ready.)*
+
+Then name **the beachhead**: one persona, for the next two quarters, that everything points at. Four personas is a research finding, not a go-to-market plan.
+
+### Phase 5 · The Voice
+
+This lens carries the most vocabulary, so build the lexicon properly and treat it as the real deliverable.
+
+Three layers, and keep them visibly separate:
+
+1. **Proprietary terms** — from the archetype. These are the brand's own words and they should be used with consistency bordering on stubbornness. Repetition is what turns a coined term into an asset.
+2. **Methodology terms, verbatim** — from whatever certifications and trainings the coach holds. Do not rename these to fit the metaphor. The temptation is strong and the cost is real: renaming severs the credibility line back to the source, and it makes the coach's own training illegible to anyone else in that world. A coach with three modalities has three sub-layers, and all three stay intact.
+3. **Bridge vocabulary** — the audience's native language, borrowed to make the work land instantly. This is where the metaphor meets the market.
+
+Also build **the manifesto**. A transformation brand needs one long-form piece that shows the voice at length — 600 to 1,000 words, no headers, no bullets, the argument made in full. It becomes the calibration document: when anyone is unsure whether a piece of copy fits, they read it back to back with the manifesto and listen for the difference. This single artifact does more to make a brand voice reproducible than any list of adjectives.
+
+### Phase 6 · The Stress Test
+
+Add these charges:
+
+11. **Is the differentiation categorical or only aesthetic?** The most dangerous failure in this lens. A distinctive font, a strong palette, and a coined vocabulary can make a brand *feel* different while the underlying offer is identical to six others. Ask: if you stripped the words and the design, what's structurally different about what the client receives?
+12. **Can the brand survive the founder's absence — and does anyone want it to?** If the answer is no, this might actually be a personal brand wearing a program's name. That's worth knowing before building a brand architecture that assumes separability.
+13. **Does the promise fit the duration?** A 90-day name attached to a change that takes two years is a refund waiting to happen.
+14. **Does the positioning self-destruct if it succeeds?** Some positions are built on scarcity, contrarianism, or being unknown, and stop working at scale. Test the brand at 100x its current size and see what breaks.
+15. **What's the proof?** A named brand makes a specific claim, which invites the question of evidence. If there are no results yet, the brand should be built so it can make claims *later* without contradicting what it says now.
+
+### Phase 7 · Assembly
+
+The Bible gains one section:
+
+**Part IX · Brand Architecture**
+- The master brand and what sits under it — programs, tiers, the free thing, the diagnostic.
+- The naming convention: how future products get named from inside the metaphor, so the coach can name the next three things without another branding exercise.
+- What the brand may and may not claim at its current level of evidence, and what unlocks each next claim.
+- The relationship between the founder and the brand: how much of the founder is in it now, and what the plan is if that changes.
+
+
+---
+
+# APPENDIX B · Lens · Personal Brand
+
+The coach's own name is the brand. They are the product, the marketing, and the delivery.
+
+This lens has one great advantage and one great danger, and they're the same fact: there's nothing between the coach and the audience.
+
+**The advantage** — no translation loss. What they believe reaches the client directly, and coherence is nearly free.
+
+**The danger** — with no external object to point at, the brand collapses into a résumé. Certifications, credentials, "I help leaders unlock their potential." A personal brand without an enemy is just a person listing their qualifications, and that is the single most common failure in this entire category.
+
+Enemy-first isn't merely useful here. It's the only thing that turns a biography into a position.
+
+---
+
+## What changes by phase
+
+### Phase 0 · Intake
+
+Weight the self path heavily. In this lens, the coach's own history isn't background — it's the product's origin story and often its proof.
+
+Add:
+
+- **The credential pile.** Every certification, in the order collected, with the year and what they were hoping it would fix. *(The sequence is revealing. People collect certifications in the direction of an unanswered question, and the question is usually the brand.)*
+- **The public trail.** Everything they've published — posts, newsletters, talks, podcast appearances. What got a reaction? What did they think would land and didn't?
+- **The thing they're known for by accident.** Most personal-brand coaches have one post, one line, or one story that outperformed everything else and they usually resent it. Find it, because the market has already voted.
+
+### Phase 1 · The Enemy
+
+Two risks specific to this lens.
+
+**First: the enemy becomes a person.** In a personal brand, "against" slides easily into "against someone" — a competitor, an ex-mentor, a guru with more followers. That reads as insecurity and it ages badly. Keep the enemy structural: an industry, a received wisdom, a false cure, a category. Heat is for systems, not people.
+
+**Second: no enemy at all.** Coaches who are conflict-averse, or who trained in modalities that prize neutrality, will resist this phase. Don't let them skip it. Reframe: *you're not attacking anyone, you're being specific about what this isn't — and that specificity is what lets the right person recognize themselves.* The kindest thing a brand can do is be legible enough that the wrong people can leave.
+
+### Phase 2 · The Archetype
+
+The archetype is the coach's own working self, so the elicitation is closer and the honesty bar is higher.
+
+The trap: choosing the archetype they wish they were. A quiet, patient coach who selects a provocateur archetype because it markets well will produce excellent copy and then dread every post. This is exactly what the Vocational-Fit Check exists to catch, and in this lens it is the highest-stakes check in the kit.
+
+Ask directly:
+
+- Who are you on your *best* day with a client — not your most impressive day?
+- What do people thank you for afterward? Is it the same thing you think you're good at?
+- Is there a version of you that shows up when you're tired, and is it recognizably the same person as the one in this brand?
+
+The last one matters more than it sounds. A personal brand has to hold up on a bad week, because there's no institution to hide behind.
+
+Also handle: **the name.** If the coach's own name is the brand, the archetype has to be expressible *through* a name they didn't choose. That's a constraint, not a problem — it just means the archetype lives in the vocabulary and the visual system rather than in a clever wordmark. Consider whether a named *method* or *program* should carry the metaphor instead, so the archetype has somewhere concrete to live.
+
+### Phase 3 · The Expensive Problem and the Transformation
+
+Standard, with one addition: **check the proximity trap.** Personal-brand coaches frequently define the expensive problem as the one *they* had, which is legitimate — being the former patient is real authority — but it can quietly narrow the market to "people exactly like me at 34."
+
+Ask:
+
+- Is this problem specific to your story, or do you see it in people whose lives look nothing like yours?
+- If someone had this problem for completely different reasons, would your work still help them?
+
+The answer changes the size of the business. Either answer is fine. Not knowing which one is true is not.
+
+### Phase 4 · The People
+
+Add: **the parasocial layer.** In a personal brand, a meaningful portion of the audience is there for the coach, not the transformation. That's an asset and a liability. Get explicit about it:
+
+- Who follows you and will never buy? What are they getting?
+- What do you want from an audience — clients, or reach that turns into something else later?
+- Is there a version of this where you're famous and broke?
+
+### Phase 5 · The Voice
+
+Easier here, because the voice already exists — it's how they talk. The work is capture, not invention.
+
+Best move: **pull from unpolished sources.** Voice memos, DMs, a text to a friend explaining what they do, the transcript of a session, a rant. The website voice is the one they don't like. The friend voice is the brand.
+
+Registers still apply, but the private-to-public distance should be *short*. If the coaching-room voice and the content voice sound like different people, the audience will feel the switch on the first call and it reads as a bait-and-switch.
+
+### Phase 6 · The Stress Test
+
+Add these charges:
+
+11. **What happens when they're sick, on holiday, or done?** A personal brand has no bus factor. Name it honestly: is this a business or a job? Both are fine; only one of them can be sold.
+12. **Is the brand a burnout script?** Particularly acute here — the coach is the entire supply. If the identity requires constant visibility, constant sharpness, constant output, it will eat them. Ask what this brand looks like at 60% capacity, because there will be months at 60%.
+13. **Is the public self sustainable?** A performed identity is exhausting in a way a designed one isn't. If the answer to "who are you on a bad week" doesn't match the brand, revise the brand rather than the person.
+14. **Does the credential stack support or undermine the position?** Fourteen certifications listed on an about page signal searching, not authority. Decide which two or three earn their place publicly; the rest work quietly inside the method.
+
+### Phase 7 · Assembly
+
+The Bible gains one section:
+
+**Part IX · The Operator**
+- The bio, in three lengths: one line, one paragraph, one page.
+- The origin story, told as the coach's hero journey against the enemy — not as a CV.
+- What they're publicly credentialed in and what they use quietly.
+- Sustainability terms: what this brand requires weekly, and what it looks like at reduced capacity.
+- The succession question, answered honestly: is there a version of this that runs without them, and do they want one?
+
+
+---
+
+# APPENDIX C · Lens · Brick-and-Mortar
+
+Gyms, studios, clinics, boxes, dojos, practices. Anywhere with a front door, a room, and other people delivering the work.
+
+This is the lens that bends the spine hardest, because a physical coaching business has **three audiences, not one**, and the usual brand kit only knows about one of them.
+
+---
+
+## The three audiences
+
+| Audience | What they need from the brand |
+|---|---|
+| **The member** | A reason to walk in and a reason to stay. |
+| **The staff** | An identity they can carry on the floor without being told what to say each time. |
+| **The owner** | A vision clear enough to lead from — including the ability to hire, train, and let go against it. |
+
+The owner audience is the one everybody forgets. A brick-and-mortar owner in an identity crisis is usually not confused about marketing. They're confused about **what they want this place to be**, and every marketing problem downstream is a symptom of that.
+
+So for this lens, the Brand Bible is not a marketing document. It's a **leadership document that happens to include marketing.** Write it so the owner reads it and knows how to run the room — and so a coach on the floor reads it and knows what this place believes.
+
+**Do not produce a separate one-page "floor card" or staff summary.** Splitting it invites a two-tier brand where the owner has the real vision and the staff get a laminated abbreviation of it. The Bible itself carries both jobs.
+
+---
+
+## What changes by phase
+
+### Phase 0 · Intake
+
+Add to the standard intake:
+
+- **The room itself.** What does it smell like, sound like, look like at 6am versus 6pm? What's on the walls? What did the last owner leave behind that's still there?
+- **The staff.** How many coaches, how long have they been there, where did they come from, what do they believe? Are they employees, contractors, or former members who got certified?
+- **Membership shape.** How many members, how long do they stay, when do they leave? Churn by month of tenure if they have it. *(Churn at month 3 is an onboarding problem. Churn at month 14 is an identity problem — the place never became theirs.)*
+- **Local reality.** Who else is within fifteen minutes, what do they charge, what do they call themselves? A physical business competes with geography, not with a niche.
+- **The failed pivots — in detail.** Physical businesses pivot by buying a licensed program or methodology, and those pivots leave marks: members who left, staff who disagreed, equipment in a corner. Ask what they bought, what it promised, why they bought it, and what actually happened. This is usually the richest material in the entire intake.
+
+### Phase 1 · The Enemy
+
+The adjacent-category antagonist does most of the work here and it's usually one of these shapes:
+
+- The commodity version of what they do (the $10 gym, the chain studio, the mill practice).
+- The elite version that excludes their people (the competitive box, the boutique that's really a fashion brand).
+- The methodology they used to belong to and outgrew.
+- The industry's own churn model — businesses that make money on members who never come.
+
+Push past "we're more welcoming." Every gym in America says it's welcoming. Ask what they're *against*, not what they're nicer than.
+
+**A note on outgrown affiliations.** Many owners bought into a methodology, gave it years, and drifted. There's grief in that and it comes out as vagueness. Name it directly: *what did that thing give you that was real, and what did it stop giving you?* The honest answer usually contains the enemy — not the methodology itself, but the thing it turned into.
+
+### Phase 2 · The Archetype
+
+Two archetypes exist here and they must be separated or the brand will be incoherent the moment the owner steps off the floor.
+
+1. **The owner's archetype** — how *they* coach and lead.
+2. **The place's archetype** — what the room is, which has to survive the owner not being in it.
+
+A personal-brand coach can collapse these. A brick-and-mortar owner cannot, because they're building something staff have to deliver. Ask: *if you were on vacation for three weeks, what would still be true about this place?* That's the place's archetype. Anything that evaporates was yours, not the building's.
+
+The extension test applies to the place's archetype and gains two items:
+
+> From inside this metaphor, name:
+> 1. The membership tiers or programs
+> 2. The first free thing (a drop-in, a trial, an assessment)
+> 3. The verb on the button
+> 4. What you call someone who's stuck
+> 5. What you call it when it works
+> 6. **What you call your members collectively**
+> 7. **What you call the room, or the parts of it**
+
+### Phase 3 · The Expensive Problem and the Transformation
+
+Harder here, because members don't arrive with a crisp problem — they arrive with a body, a schedule, and a vague intention. The expensive problem is real but it's usually *ahead* of them rather than behind.
+
+Useful reframes:
+
+- What are these people going to lose in the next ten years if nothing changes? Be concrete — independence, a knee, being able to pick up a grandchild, a decade of energy.
+- What did the ones who stayed five years get that the ones who quit at month four didn't?
+- What's the thing members say at year two that they'd never have said at week one? *(That sentence is usually the actual transformation.)*
+
+**The retention insight belongs here, not in marketing.** For a physical business, the money is in the difference between a nine-month member and a four-year member. So the transformation you name should be the one that takes years, not the one that takes six weeks — because the six-week promise is what every competitor is already making, and it's also what produces churn at month nine when the six weeks are over and there's nothing after it.
+
+### Phase 4 · The People
+
+Two additions:
+
+- **Segment by tenure as well as by failure mode.** The person walking in the door and the person four years in are different people with different reasons to be there, and a brand that only speaks to the first one leaks its best members.
+- **Add a staff persona.** Who is the coach you want on the floor? What do they believe, what did they do before, why would they work here instead of somewhere paying more? You are recruiting against this, and a place whose identity attracts the right coaches has solved half of its delivery problem.
+
+Also: the local constraint. A niche-by-psychographic (the burned-out senior engineer) works for an online transformation brand. A physical business needs a position sharp enough to be distinctive but broad enough that enough of those people live within fifteen minutes. Say the tradeoff out loud and make the owner choose it deliberately.
+
+### Phase 5 · The Voice
+
+Add a fourth register: **the floor voice.** How a coach talks to a member mid-workout, mid-session, mid-appointment. It's the register the brand actually lives or dies in, and it's the one no brand guide ever documents.
+
+For the floor voice, capture:
+
+- What we say when someone shows up after three weeks away. *(This one sentence tells you more about a gym's real culture than its entire website.)*
+- What we say when someone scales down, modifies, or can't finish.
+- What we say when someone hits something they've been chasing.
+- What we say to a first-timer in the first ninety seconds.
+- What we never say. Especially: the sarcastic thing, the comparison to another member, the joke about how hard it's going to be.
+
+The methodology layer matters here too — the technical vocabulary of whatever the staff are certified in stays verbatim, because that's what makes the coaching sound like coaching rather than customer service.
+
+### Phase 6 · The Stress Test
+
+Add these charges to the standard ten:
+
+11. **Can a 24-year-old coach two months into the job deliver this identity on the floor without being coached on it every shift?** If it only works when the owner is in the building, it isn't an identity, it's a personality.
+12. **Would you fire someone over this?** An owner who won't let a coach go for violating the values doesn't have values, they have preferences. Name the specific behavior that would end an employment.
+13. **Does the room match?** Walk the space against the brand you just wrote. The walls, the music, the whiteboard, the front desk, the bathroom. Physical space is the highest-bandwidth brand surface a business can have and it's usually the last one anyone audits.
+14. **Does this survive the local market?** Are there enough of these people within a reasonable drive at this price?
+15. **Does the owner want to run this business, or the one they had five years ago?** Grief for the old version masquerades as strategy more often in this lens than in either of the others.
+
+### Phase 7 · Assembly
+
+The Bible gains two sections and one has to be written for a reader who is not the owner.
+
+**Part IX · Leading This Place** *(for the owner)*
+- What we believe, in a form the owner can lead from.
+- The three or four values, each written as an observable behavior rather than a word. Not "community" — *we know every member's name inside two visits and we say it when they walk in.*
+- What gets someone hired here. What gets someone let go.
+- What the owner personally owns and what belongs to the staff.
+- The one-year vision for the room: what's different in twelve months, described physically.
+
+**Part X · Working Here** *(for the staff)*
+- Who we are and who we're against, in plain language, no marketing register.
+- What we say and don't say on the floor.
+- What a member should feel in their first ninety seconds, at week six, and at year two.
+- The three sentences that explain this place to someone who asks at a party.
+
+Write Part X so a coach could read it once, hand it back, and be right. If it requires the owner's presence to interpret, rewrite it.
+
+---
+
+## Grounding note
+
+The real case this lens was built against: an owner with a decade of coaching and seven years of ownership, who took over a box he'd worked at, carried it through COVID, and lost the community spark it had originally. He tried adopting a licensed methodology and it went badly. He tried going back to the roots and it felt empty. He can't articulate the values, doesn't see a strong identity in the business, and has no picture of what he wants it to deliver — for members *or* for his coaching staff.
+
+Two things that case teaches about this lens:
+
+**The two failed pivots are the most valuable intake material available.** One was reaching forward for an identity, one was reaching backward. Both failed, which means the answer isn't in either direction — and knowing that eliminates most of the search space before you ask a single identity question.
+
+**"Lost the community spark" is not a marketing problem.** It's an owner who no longer knows what the room is for. Do not let this lens drift into logos and Instagram. The deliverable is a leader who knows what he's building and a staff who can say it out loud.
+
+
+---
+
+# APPENDIX D · Question Bank
 
 The actual questions. Ask them in plain language, one at a time in Phases 0–3.
 
@@ -646,349 +993,6 @@ Build five yes/no questions any piece of copy has to pass, derived from what *th
 
 ---
 
-# APPENDIX B · Lens · Transformation Brand
-
-The brand is a named thing that leads with the change it produces rather than with the person producing it. A program, a method, a promise. It could, in principle, outlive its founder.
-
-This is the lens with the most room to build — and the most room to build something hollow. A named brand can be invented from nothing, which means nothing is stopping you from inventing something the coach can't actually deliver.
-
----
-
-## What changes by phase
-
-### Phase 0 · Intake
-
-Standard both-paths intake, plus:
-
-- **What already has a name?** The business, the program, the framework, the free thing. Where did each name come from and does the coach still like it?
-- **Is the method real yet?** There's a large difference between a coach who has run something twenty times and one who has a landing page. Both can build a brand; only one can make a claim. Establish which, early and without judgment, because it determines what the brand is allowed to promise.
-- **The delivery reality.** How does the transformation actually happen — 1:1, group, cohort, self-paced, hybrid? Over what span? The brand has to fit the delivery or Phase 6 will catch the mismatch and you'll be rebuilding.
-
-### Phase 1 · The Enemy
-
-This lens supports the sharpest enemies, because the brand is an idea rather than a person and ideas can pick fights people can't.
-
-Lean into the **industrial complex** category. A transformation brand's most defensible position is usually "an entire industry is set up to keep you in the problem, and here's the mechanism." That's a claim a named brand can make and sustain.
-
-Watch for one failure: an enemy so broad it's unfalsifiable. "Modern life," "hustle culture," "the system" — these feel like positions and aren't, because nobody disagrees and nothing follows from them. Push for an enemy with a business model. If you can't name who makes money when the problem persists, keep going.
-
-### Phase 2 · The Archetype
-
-This lens gets the most leverage from the extension test, because the archetype has to name a whole product system rather than just describe a person.
-
-Extend the standard five to include:
-
-> 6. **The method's name** — the thing the coach does, as a proper noun
-> 7. **The phases or steps** — what the stages of the work are called
-> 8. **The diagnostic** — what you call the moment of assessment
-
-When an archetype produces all eight cleanly, you have a brand that can generate its own product line indefinitely. That's the whole payoff of this lens: one metaphor choice, and the naming problem is permanently solved.
-
-**Guard against the archetype outrunning the delivery.** A brand can promise a mechanical, systematic, diagnostic process; if the actual sessions are warm, exploratory conversations, the client feels the gap in week two. Run the marketing voice and the delivery voice against each other before locking the archetype — this is the mismatch the stress test hunts for and it's cheaper to catch here.
-
-### Phase 3 · The Expensive Problem and the Transformation
-
-The core of this lens. Everything else is downstream.
-
-Additions:
-
-- **The transformation needs a duration.** A named transformation brand almost always implies a span — 90 days, 12 weeks, six months. Pick it from the actual work, not from what sounds good. Then check: does the promise fit inside it honestly?
-- **What's the observable milestone at the midpoint?** A client who can't tell it's working by the halfway mark churns, regardless of whether it's working.
-- **What is explicitly *not* included?** A named brand invites scope creep because the name implies completeness. Draw the line here, in writing, and it'll save the coach a year of unpaid labor.
-
-### Phase 4 · The People
-
-Standard, with heavier weighting on the **buying-readiness split**. A transformation brand can be discovered by strangers at scale, which means the audience will be much broader than the buyer pool. Be explicit and unsentimental:
-
-- Whose attention is this brand built to capture?
-- Whose money is it built to take?
-- Are those the same people? *(Often not, and that's fine — but it has to be a decision. Build the voice for the one who spreads it; take money from the one who's ready.)*
-
-Then name **the beachhead**: one persona, for the next two quarters, that everything points at. Four personas is a research finding, not a go-to-market plan.
-
-### Phase 5 · The Voice
-
-This lens carries the most vocabulary, so build the lexicon properly and treat it as the real deliverable.
-
-Three layers, and keep them visibly separate:
-
-1. **Proprietary terms** — from the archetype. These are the brand's own words and they should be used with consistency bordering on stubbornness. Repetition is what turns a coined term into an asset.
-2. **Methodology terms, verbatim** — from whatever certifications and trainings the coach holds. Do not rename these to fit the metaphor. The temptation is strong and the cost is real: renaming severs the credibility line back to the source, and it makes the coach's own training illegible to anyone else in that world. A coach with three modalities has three sub-layers, and all three stay intact.
-3. **Bridge vocabulary** — the audience's native language, borrowed to make the work land instantly. This is where the metaphor meets the market.
-
-Also build **the manifesto**. A transformation brand needs one long-form piece that shows the voice at length — 600 to 1,000 words, no headers, no bullets, the argument made in full. It becomes the calibration document: when anyone is unsure whether a piece of copy fits, they read it back to back with the manifesto and listen for the difference. This single artifact does more to make a brand voice reproducible than any list of adjectives.
-
-### Phase 6 · The Stress Test
-
-Add these charges:
-
-11. **Is the differentiation categorical or only aesthetic?** The most dangerous failure in this lens. A distinctive font, a strong palette, and a coined vocabulary can make a brand *feel* different while the underlying offer is identical to six others. Ask: if you stripped the words and the design, what's structurally different about what the client receives?
-12. **Can the brand survive the founder's absence — and does anyone want it to?** If the answer is no, this might actually be a personal brand wearing a program's name. That's worth knowing before building a brand architecture that assumes separability.
-13. **Does the promise fit the duration?** A 90-day name attached to a change that takes two years is a refund waiting to happen.
-14. **Does the positioning self-destruct if it succeeds?** Some positions are built on scarcity, contrarianism, or being unknown, and stop working at scale. Test the brand at 100x its current size and see what breaks.
-15. **What's the proof?** A named brand makes a specific claim, which invites the question of evidence. If there are no results yet, the brand should be built so it can make claims *later* without contradicting what it says now.
-
-### Phase 7 · Assembly
-
-The Bible gains one section:
-
-**Part IX · Brand Architecture**
-- The master brand and what sits under it — programs, tiers, the free thing, the diagnostic.
-- The naming convention: how future products get named from inside the metaphor, so the coach can name the next three things without another branding exercise.
-- What the brand may and may not claim at its current level of evidence, and what unlocks each next claim.
-- The relationship between the founder and the brand: how much of the founder is in it now, and what the plan is if that changes.
-
-
----
-
-# APPENDIX C · Lens · Personal Brand
-
-The coach's own name is the brand. They are the product, the marketing, and the delivery.
-
-This lens has one great advantage and one great danger, and they're the same fact: there's nothing between the coach and the audience.
-
-**The advantage** — no translation loss. What they believe reaches the client directly, and coherence is nearly free.
-
-**The danger** — with no external object to point at, the brand collapses into a résumé. Certifications, credentials, "I help leaders unlock their potential." A personal brand without an enemy is just a person listing their qualifications, and that is the single most common failure in this entire category.
-
-Enemy-first isn't merely useful here. It's the only thing that turns a biography into a position.
-
----
-
-## What changes by phase
-
-### Phase 0 · Intake
-
-Weight the self path heavily. In this lens, the coach's own history isn't background — it's the product's origin story and often its proof.
-
-Add:
-
-- **The credential pile.** Every certification, in the order collected, with the year and what they were hoping it would fix. *(The sequence is revealing. People collect certifications in the direction of an unanswered question, and the question is usually the brand.)*
-- **The public trail.** Everything they've published — posts, newsletters, talks, podcast appearances. What got a reaction? What did they think would land and didn't?
-- **The thing they're known for by accident.** Most personal-brand coaches have one post, one line, or one story that outperformed everything else and they usually resent it. Find it, because the market has already voted.
-
-### Phase 1 · The Enemy
-
-Two risks specific to this lens.
-
-**First: the enemy becomes a person.** In a personal brand, "against" slides easily into "against someone" — a competitor, an ex-mentor, a guru with more followers. That reads as insecurity and it ages badly. Keep the enemy structural: an industry, a received wisdom, a false cure, a category. Heat is for systems, not people.
-
-**Second: no enemy at all.** Coaches who are conflict-averse, or who trained in modalities that prize neutrality, will resist this phase. Don't let them skip it. Reframe: *you're not attacking anyone, you're being specific about what this isn't — and that specificity is what lets the right person recognize themselves.* The kindest thing a brand can do is be legible enough that the wrong people can leave.
-
-### Phase 2 · The Archetype
-
-The archetype is the coach's own working self, so the elicitation is closer and the honesty bar is higher.
-
-The trap: choosing the archetype they wish they were. A quiet, patient coach who selects a provocateur archetype because it markets well will produce excellent copy and then dread every post. This is exactly what the Vocational-Fit Check exists to catch, and in this lens it is the highest-stakes check in the kit.
-
-Ask directly:
-
-- Who are you on your *best* day with a client — not your most impressive day?
-- What do people thank you for afterward? Is it the same thing you think you're good at?
-- Is there a version of you that shows up when you're tired, and is it recognizably the same person as the one in this brand?
-
-The last one matters more than it sounds. A personal brand has to hold up on a bad week, because there's no institution to hide behind.
-
-Also handle: **the name.** If the coach's own name is the brand, the archetype has to be expressible *through* a name they didn't choose. That's a constraint, not a problem — it just means the archetype lives in the vocabulary and the visual system rather than in a clever wordmark. Consider whether a named *method* or *program* should carry the metaphor instead, so the archetype has somewhere concrete to live.
-
-### Phase 3 · The Expensive Problem and the Transformation
-
-Standard, with one addition: **check the proximity trap.** Personal-brand coaches frequently define the expensive problem as the one *they* had, which is legitimate — being the former patient is real authority — but it can quietly narrow the market to "people exactly like me at 34."
-
-Ask:
-
-- Is this problem specific to your story, or do you see it in people whose lives look nothing like yours?
-- If someone had this problem for completely different reasons, would your work still help them?
-
-The answer changes the size of the business. Either answer is fine. Not knowing which one is true is not.
-
-### Phase 4 · The People
-
-Add: **the parasocial layer.** In a personal brand, a meaningful portion of the audience is there for the coach, not the transformation. That's an asset and a liability. Get explicit about it:
-
-- Who follows you and will never buy? What are they getting?
-- What do you want from an audience — clients, or reach that turns into something else later?
-- Is there a version of this where you're famous and broke?
-
-### Phase 5 · The Voice
-
-Easier here, because the voice already exists — it's how they talk. The work is capture, not invention.
-
-Best move: **pull from unpolished sources.** Voice memos, DMs, a text to a friend explaining what they do, the transcript of a session, a rant. The website voice is the one they don't like. The friend voice is the brand.
-
-Registers still apply, but the private-to-public distance should be *short*. If the coaching-room voice and the content voice sound like different people, the audience will feel the switch on the first call and it reads as a bait-and-switch.
-
-### Phase 6 · The Stress Test
-
-Add these charges:
-
-11. **What happens when they're sick, on holiday, or done?** A personal brand has no bus factor. Name it honestly: is this a business or a job? Both are fine; only one of them can be sold.
-12. **Is the brand a burnout script?** Particularly acute here — the coach is the entire supply. If the identity requires constant visibility, constant sharpness, constant output, it will eat them. Ask what this brand looks like at 60% capacity, because there will be months at 60%.
-13. **Is the public self sustainable?** A performed identity is exhausting in a way a designed one isn't. If the answer to "who are you on a bad week" doesn't match the brand, revise the brand rather than the person.
-14. **Does the credential stack support or undermine the position?** Fourteen certifications listed on an about page signal searching, not authority. Decide which two or three earn their place publicly; the rest work quietly inside the method.
-
-### Phase 7 · Assembly
-
-The Bible gains one section:
-
-**Part IX · The Operator**
-- The bio, in three lengths: one line, one paragraph, one page.
-- The origin story, told as the coach's hero journey against the enemy — not as a CV.
-- What they're publicly credentialed in and what they use quietly.
-- Sustainability terms: what this brand requires weekly, and what it looks like at reduced capacity.
-- The succession question, answered honestly: is there a version of this that runs without them, and do they want one?
-
-
----
-
-# APPENDIX D · Lens · Brick-and-Mortar
-
-Gyms, studios, clinics, boxes, dojos, practices. Anywhere with a front door, a room, and other people delivering the work.
-
-This is the lens that bends the spine hardest, because a physical coaching business has **three audiences, not one**, and the usual brand kit only knows about one of them.
-
----
-
-## The three audiences
-
-| Audience | What they need from the brand |
-|---|---|
-| **The member** | A reason to walk in and a reason to stay. |
-| **The staff** | An identity they can carry on the floor without being told what to say each time. |
-| **The owner** | A vision clear enough to lead from — including the ability to hire, train, and let go against it. |
-
-The owner audience is the one everybody forgets. A brick-and-mortar owner in an identity crisis is usually not confused about marketing. They're confused about **what they want this place to be**, and every marketing problem downstream is a symptom of that.
-
-So for this lens, the Brand Bible is not a marketing document. It's a **leadership document that happens to include marketing.** Write it so the owner reads it and knows how to run the room — and so a coach on the floor reads it and knows what this place believes.
-
-**Do not produce a separate one-page "floor card" or staff summary.** Splitting it invites a two-tier brand where the owner has the real vision and the staff get a laminated abbreviation of it. The Bible itself carries both jobs.
-
----
-
-## What changes by phase
-
-### Phase 0 · Intake
-
-Add to the standard intake:
-
-- **The room itself.** What does it smell like, sound like, look like at 6am versus 6pm? What's on the walls? What did the last owner leave behind that's still there?
-- **The staff.** How many coaches, how long have they been there, where did they come from, what do they believe? Are they employees, contractors, or former members who got certified?
-- **Membership shape.** How many members, how long do they stay, when do they leave? Churn by month of tenure if they have it. *(Churn at month 3 is an onboarding problem. Churn at month 14 is an identity problem — the place never became theirs.)*
-- **Local reality.** Who else is within fifteen minutes, what do they charge, what do they call themselves? A physical business competes with geography, not with a niche.
-- **The failed pivots — in detail.** Physical businesses pivot by buying a licensed program or methodology, and those pivots leave marks: members who left, staff who disagreed, equipment in a corner. Ask what they bought, what it promised, why they bought it, and what actually happened. This is usually the richest material in the entire intake.
-
-### Phase 1 · The Enemy
-
-The adjacent-category antagonist does most of the work here and it's usually one of these shapes:
-
-- The commodity version of what they do (the $10 gym, the chain studio, the mill practice).
-- The elite version that excludes their people (the competitive box, the boutique that's really a fashion brand).
-- The methodology they used to belong to and outgrew.
-- The industry's own churn model — businesses that make money on members who never come.
-
-Push past "we're more welcoming." Every gym in America says it's welcoming. Ask what they're *against*, not what they're nicer than.
-
-**A note on outgrown affiliations.** Many owners bought into a methodology, gave it years, and drifted. There's grief in that and it comes out as vagueness. Name it directly: *what did that thing give you that was real, and what did it stop giving you?* The honest answer usually contains the enemy — not the methodology itself, but the thing it turned into.
-
-### Phase 2 · The Archetype
-
-Two archetypes exist here and they must be separated or the brand will be incoherent the moment the owner steps off the floor.
-
-1. **The owner's archetype** — how *they* coach and lead.
-2. **The place's archetype** — what the room is, which has to survive the owner not being in it.
-
-A personal-brand coach can collapse these. A brick-and-mortar owner cannot, because they're building something staff have to deliver. Ask: *if you were on vacation for three weeks, what would still be true about this place?* That's the place's archetype. Anything that evaporates was yours, not the building's.
-
-The extension test applies to the place's archetype and gains two items:
-
-> From inside this metaphor, name:
-> 1. The membership tiers or programs
-> 2. The first free thing (a drop-in, a trial, an assessment)
-> 3. The verb on the button
-> 4. What you call someone who's stuck
-> 5. What you call it when it works
-> 6. **What you call your members collectively**
-> 7. **What you call the room, or the parts of it**
-
-### Phase 3 · The Expensive Problem and the Transformation
-
-Harder here, because members don't arrive with a crisp problem — they arrive with a body, a schedule, and a vague intention. The expensive problem is real but it's usually *ahead* of them rather than behind.
-
-Useful reframes:
-
-- What are these people going to lose in the next ten years if nothing changes? Be concrete — independence, a knee, being able to pick up a grandchild, a decade of energy.
-- What did the ones who stayed five years get that the ones who quit at month four didn't?
-- What's the thing members say at year two that they'd never have said at week one? *(That sentence is usually the actual transformation.)*
-
-**The retention insight belongs here, not in marketing.** For a physical business, the money is in the difference between a nine-month member and a four-year member. So the transformation you name should be the one that takes years, not the one that takes six weeks — because the six-week promise is what every competitor is already making, and it's also what produces churn at month nine when the six weeks are over and there's nothing after it.
-
-### Phase 4 · The People
-
-Two additions:
-
-- **Segment by tenure as well as by failure mode.** The person walking in the door and the person four years in are different people with different reasons to be there, and a brand that only speaks to the first one leaks its best members.
-- **Add a staff persona.** Who is the coach you want on the floor? What do they believe, what did they do before, why would they work here instead of somewhere paying more? You are recruiting against this, and a place whose identity attracts the right coaches has solved half of its delivery problem.
-
-Also: the local constraint. A niche-by-psychographic (the burned-out senior engineer) works for an online transformation brand. A physical business needs a position sharp enough to be distinctive but broad enough that enough of those people live within fifteen minutes. Say the tradeoff out loud and make the owner choose it deliberately.
-
-### Phase 5 · The Voice
-
-Add a fourth register: **the floor voice.** How a coach talks to a member mid-workout, mid-session, mid-appointment. It's the register the brand actually lives or dies in, and it's the one no brand guide ever documents.
-
-For the floor voice, capture:
-
-- What we say when someone shows up after three weeks away. *(This one sentence tells you more about a gym's real culture than its entire website.)*
-- What we say when someone scales down, modifies, or can't finish.
-- What we say when someone hits something they've been chasing.
-- What we say to a first-timer in the first ninety seconds.
-- What we never say. Especially: the sarcastic thing, the comparison to another member, the joke about how hard it's going to be.
-
-The methodology layer matters here too — the technical vocabulary of whatever the staff are certified in stays verbatim, because that's what makes the coaching sound like coaching rather than customer service.
-
-### Phase 6 · The Stress Test
-
-Add these charges to the standard ten:
-
-11. **Can a 24-year-old coach two months into the job deliver this identity on the floor without being coached on it every shift?** If it only works when the owner is in the building, it isn't an identity, it's a personality.
-12. **Would you fire someone over this?** An owner who won't let a coach go for violating the values doesn't have values, they have preferences. Name the specific behavior that would end an employment.
-13. **Does the room match?** Walk the space against the brand you just wrote. The walls, the music, the whiteboard, the front desk, the bathroom. Physical space is the highest-bandwidth brand surface a business can have and it's usually the last one anyone audits.
-14. **Does this survive the local market?** Are there enough of these people within a reasonable drive at this price?
-15. **Does the owner want to run this business, or the one they had five years ago?** Grief for the old version masquerades as strategy more often in this lens than in either of the others.
-
-### Phase 7 · Assembly
-
-The Bible gains two sections and one has to be written for a reader who is not the owner.
-
-**Part IX · Leading This Place** *(for the owner)*
-- What we believe, in a form the owner can lead from.
-- The three or four values, each written as an observable behavior rather than a word. Not "community" — *we know every member's name inside two visits and we say it when they walk in.*
-- What gets someone hired here. What gets someone let go.
-- What the owner personally owns and what belongs to the staff.
-- The one-year vision for the room: what's different in twelve months, described physically.
-
-**Part X · Working Here** *(for the staff)*
-- Who we are and who we're against, in plain language, no marketing register.
-- What we say and don't say on the floor.
-- What a member should feel in their first ninety seconds, at week six, and at year two.
-- The three sentences that explain this place to someone who asks at a party.
-
-Write Part X so a coach could read it once, hand it back, and be right. If it requires the owner's presence to interpret, rewrite it.
-
----
-
-## Grounding note
-
-The real case this lens was built against: an owner with a decade of coaching and seven years of ownership, who took over a box he'd worked at, carried it through COVID, and lost the community spark it had originally. He tried adopting a licensed methodology and it went badly. He tried going back to the roots and it felt empty. He can't articulate the values, doesn't see a strong identity in the business, and has no picture of what he wants it to deliver — for members *or* for his coaching staff.
-
-Two things that case teaches about this lens:
-
-**The two failed pivots are the most valuable intake material available.** One was reaching forward for an identity, one was reaching backward. Both failed, which means the answer isn't in either direction — and knowing that eliminates most of the search space before you ask a single identity question.
-
-**"Lost the community spark" is not a marketing problem.** It's an owner who no longer knows what the room is for. Do not let this lens drift into logos and Instagram. The deliverable is a leader who knows what he's building and a staff who can say it out loud.
-
-
----
-
 # APPENDIX E · The Stress Test
 
 Phase 6. Two halves — an adversarial review, then falsifiable homework. Both are required.
@@ -1287,7 +1291,7 @@ See the relevant lens file for contents.
 
 ## PART X · Working Here *(brick-and-mortar only)*
 
-Written for staff, not for the owner. See **Appendix D**.
+Written for staff, not for the owner. See **Appendix C**.
 
 ---
 
