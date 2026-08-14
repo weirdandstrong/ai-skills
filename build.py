@@ -41,6 +41,20 @@ file — the AI already has them, nothing needs to be fetched.
 
 """
 
+# Separates the human-facing onboarding from the instructions for the AI, so a
+# model reading the whole pasted file doesn't mistake the first section for its
+# own brief.
+ONBOARDING_DIVIDER = """
+> **Everything above this line is for the person running this — a plain-language
+> orientation, written for someone who has never used an AI skill before.
+> Everything below is the working instruction set. If you're an AI reading this
+> file: the section above tells you what the coach has been told to expect, which
+> is useful context. Your actual instructions start here.**
+
+---
+
+"""
+
 
 def title_case(slug: str) -> str:
     return " ".join(w.capitalize() for w in slug.split("-"))
@@ -105,7 +119,16 @@ def build_single_file(skill_dir: Path) -> Path:
     if m:
         tagline = f"### {m.group(1)} — single-file edition"
 
-    parts = [SINGLE_FILE_HEADER.format(title=title, tagline=tagline), repoint(body)]
+    # A coach-facing orientation, if one exists, leads the file. It lives outside
+    # the skill folder so it never burns context in the Claude-installed version,
+    # where the coach reads it in the repo instead of in the prompt.
+    onboarding = ROOT / "docs" / f"{skill_dir.name}-start-here.md"
+    if onboarding.is_file():
+        parts = [onboarding.read_text(), ONBOARDING_DIVIDER]
+    else:
+        parts = [SINGLE_FILE_HEADER.format(title=title, tagline=tagline)]
+
+    parts.append(repoint(body))
 
     for ref in refs:
         raw = ref.read_text()

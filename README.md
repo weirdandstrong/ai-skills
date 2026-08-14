@@ -44,24 +44,37 @@ Not phases — they fire repeatedly, and they're most of what separates this fro
 
 ---
 
+---
+
+## If you're a coach, start here
+
+Read **[docs/identity-crisis-start-here.md](docs/identity-crisis-start-here.md)**. It's plain language, takes three minutes, and covers what to have ready before you sit down. You don't need to understand anything else in this repo.
+
+The short version: download **[dist/Identity-Crisis-single-file.md](dist/Identity-Crisis-single-file.md)**, paste the whole thing into a new chat with Claude or ChatGPT, and say *"Run Identity Crisis on my coaching business."* Set aside 60–90 minutes.
+
+That one file contains the orientation, the skill, and every appendix. Nothing else is needed and nothing gets fetched.
+
+---
+
 ## Install
 
-**Claude** — download `dist/identity-crisis.skill` and open it, or drop the `skills/identity-crisis/` folder into your skills directory.
+**Claude or ChatGPT** — download `dist/identity-crisis.skill` and open it, or drop the `skills/identity-crisis/` folder into your skills directory. Then say *"Run Identity Crisis on my coaching business"* in any chat.
 
-**ChatGPT, Gemini, anything else** — paste `dist/Identity-Crisis-single-file.md` into a new chat, or better, save it as project instructions / a Custom GPT so it stays loaded. The appendices are inlined; nothing needs fetching.
-
-Then say: *"Run Identity Crisis on my coaching business."*
+**Gemini, a web appp, or anything else** — paste `dist/Identity-Crisis-single-file.md` into a new chat. Better: save it as project instructions or a Custom GPT so it stays loaded across sessions.
 
 ---
 
 ## Repo layout
 
 ```
-skills/<name>/SKILL.md          source of truth
-skills/<name>/references/*.md   loaded on demand in Claude,
-                                inlined as appendices for everything else
-dist/                           built distributables — do not edit by hand
-build.py                        regenerates dist/ from skills/
+skills/<name>/SKILL.md              source of truth
+skills/<name>/references/*.md       loaded on demand in Claude,
+                                    inlined as appendices for everything else
+docs/<name>-start-here.md           coach-facing orientation; prepended to the
+                                    single-file build, kept out of the .skill
+                                    so it never burns context
+dist/                               built distributables — do not edit by hand
+build.py                            regenerates dist/ from skills/
 ```
 
 ## Building
@@ -84,4 +97,6 @@ Rebuilds every `.skill` archive and every single-file edition. No dependencies b
 
 ## License
 
-Not yet chosen — decide before this goes public.
+[CC BY-NC-SA 4.0](LICENSE). Use it to build your own brand, adapt it, share it with other coaches — credit the source and pass along any changes under the same terms. Don't sell it or a derivative as a product.
+
+**Anything you produce with it is entirely yours** — no attribution, no restrictions, commercial use included. The license covers the tool, not what you make with it.
